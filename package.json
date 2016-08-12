@@ -1,0 +1,35 @@
+{
+  "name": "mocha-chai-helper",
+  "description": "Require this in mocha to add expect, sinon, chai-things, chai-as-promised and sinon-chai to global namespace",
+  "keywords": [
+    "mocha",
+    "testing",
+    "sinon",
+    "expect",
+    "chai-things",
+    "chai-as-promised",
+    "sinon-chai"
+  ],
+  "homepage": "https://github.com/dbartholomae/mocha-chai-helper",
+  "bugs": "https://github.com/dbartholomae/mocha-chai-helper/issues",
+  "license": "MIT",
+  "author": "Daniel Bartholomae <daniel@bartholomae.name>",
+  "version": "1.0.0",
+  "typings": "./index.d.ts",
+  "dependencies": {
+    "chai": "*",
+    "chai-things": "*",
+    "chai-as-promised": "*",
+    "sinon": "*",
+    "sinon-chai": "*"
+  },
+
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbartholomae/mocha-chai-helper.git"
+  },
+  "peerDependencies": {
+    "mocha": "*"
+  }
+}
