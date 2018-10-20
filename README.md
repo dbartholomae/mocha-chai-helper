@@ -1,4 +1,5 @@
 # mocha-chai-helper
+## !!! This package is no longer maintained !!!
 [![NPM version](https://badge.fury.io/js/ng-q-plus.svg)](https://npmjs.org/package/mocha-chai-helper)
 [![Dependency Status](https://david-dm.org/dbartholomae/ng-q-plus.svg?theme=shields.io)](https://david-dm.org/dbartholomae/mocha-chai-helper)
 [![devDependency Status](https://david-dm.org/dbartholomae/ng-q-plus/dev-status.svg)](https://david-dm.org/dbartholomae/mocha-chai-helper#info=devDependencies)
